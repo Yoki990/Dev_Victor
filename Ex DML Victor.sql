@@ -35,5 +35,12 @@ WHERE libelle = 'Marketing';
 DELETE FROM Services
 WHERE date_creation < '2024-01-01';
 
-INSERT INTO Employes (nom, prenom, Services(service_id))
-VALUES ('Martin', 'Paul',Service(6)),('Dupont','Claire',Service(6)),('Bernard','Sophie',Service(7));
+INSERT INTO Employes (nom, prenom, service_id)
+VALUES ('Martin', 'Paul',6),('Dupont','Claire',6),('Bernard','Sophie',7);
+
+UPDATE Employes
+SET nom = 'Martinez'
+WHERE nom = 'Martin';
+
+DELETE FROM Employes
+WHERE prenom = 'Claire';

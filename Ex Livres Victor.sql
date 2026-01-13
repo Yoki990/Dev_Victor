@@ -1,5 +1,5 @@
   CREATE TABLE IF NOT EXISTS Livres (
-	id_livre INT,
+	id_livre AUTO_INCREMENT PRIMARY KEY,
     titre VARCHAR(255),
     auteur VARCHAR(255),
     annee_publication DATE,

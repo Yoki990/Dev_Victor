@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS Utilisateurs (
+
+	id_utilisateur INT AUTO_INCREMENT PRIMARY KEY,
+    nom VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    age INT NOT NULL CHECK (age >= 18),
+    pays VARCHAR(255) DEFAULT 'France'
+	)
+
+ALTER TABLE Utilisateurs
+RENAME TO Users;
+
+ALTER TABLE Utilisateurs
+ADD COLUMN prénom VARCHAR(200);

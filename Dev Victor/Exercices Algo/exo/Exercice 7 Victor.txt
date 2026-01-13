@@ -1,0 +1,22 @@
+int ageEnfant = 12;
+			
+			if (ageEnfant >= 3 && ageEnfant <= 6)
+			{
+			  Console.WriteLine("Baby");
+			}
+			else if (ageEnfant >= 7 && ageEnfant <= 8)
+			{
+			  Console.WriteLine("Poussin");
+			}
+			else if (ageEnfant >= 9 && ageEnfant <= 10)
+			{
+			  Console.WriteLine("Pupille");
+			}
+			else if (ageEnfant >= 11 && ageEnfant <= 12)
+			{
+			  Console.WriteLine("Minime");
+			}
+			else if (ageEnfant >=13)
+			{
+			  Console.WriteLine("Cadet");
+			}

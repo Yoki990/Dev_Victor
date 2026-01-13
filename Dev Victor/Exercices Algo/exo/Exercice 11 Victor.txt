@@ -1,0 +1,14 @@
+Console.WriteLine("Veuillez saisir le capital: ");
+string? capital = Console.ReadLine();
+double cn = double.Parse(capital);
+double capi = double.Parse(capital);
+double taux = 4/100.0;
+int nbAnnee = 0;
+
+while (cn < capi*2)
+{
+    nbAnnee++;
+    cn = capi * Math.Pow((1 + taux), nbAnnee);
+    Console.WriteLine(cn + "€");
+}
+Console.WriteLine(nbAnnee);

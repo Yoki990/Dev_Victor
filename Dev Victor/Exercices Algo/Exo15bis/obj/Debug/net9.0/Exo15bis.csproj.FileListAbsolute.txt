@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\bin\Debug\net9.0\Exo15bis.exe
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\bin\Debug\net9.0\Exo15bis.deps.json
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\bin\Debug\net9.0\Exo15bis.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\bin\Debug\net9.0\Exo15bis.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\bin\Debug\net9.0\Exo15bis.pdb
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\refint\Exo15bis.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.pdb
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\Exo15bis.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo15bis\obj\Debug\net9.0\ref\Exo15bis.dll

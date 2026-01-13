@@ -1,0 +1,7 @@
+int i=0;
+
+for (int resultat = 9 * i;resultat < 189 ;resultat = 9 * i)
+{
+    Console.WriteLine("9 x " + i + " = " + resultat);
+    i++;
+}

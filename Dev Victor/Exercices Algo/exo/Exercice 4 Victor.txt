@@ -1,0 +1,11 @@
+int nbEntier = 20;
+			
+			if (nbEntier%3 == 0)
+			{
+			  Console.WriteLine("Votre nombre est divisible par 3.");
+			}
+			else
+			{ 
+			  Console.WriteLine("Votre nombre n'est pas divisible par 3.");
+			  Console.WriteLine("Son reste est de : " + nbEntier%3);
+			}

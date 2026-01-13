@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Dev Victor\Exo21\bin\Debug\net9.0\Exo21.exe
+C:\Users\userprf\Desktop\Dev Victor\Exo21\bin\Debug\net9.0\Exo21.deps.json
+C:\Users\userprf\Desktop\Dev Victor\Exo21\bin\Debug\net9.0\Exo21.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev Victor\Exo21\bin\Debug\net9.0\Exo21.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo21\bin\Debug\net9.0\Exo21.pdb
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\refint\Exo21.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.pdb
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\Exo21.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo21\obj\Debug\net9.0\ref\Exo21.dll

@@ -1,0 +1,9 @@
+﻿int[] tableau = new int[10];
+
+for (int i = 0; i < tableau.Length; i++)
+{
+    Console.Write ($"Veuillez entrer le nombre {i+1} : ");
+    int nombre = int.Parse(Console.ReadLine());
+    tableau[i] = nombre;
+}
+Console.Write($"Le 9ème élément du tableau est : {tableau[8]}");

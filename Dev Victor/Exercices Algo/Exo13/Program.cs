@@ -1,0 +1,23 @@
+﻿/*Console.WriteLine("Veuillez saisir un nombre : ");
+
+for (int i = 0; i < 6; i++)
+{
+    
+    string? nb = Console.ReadLine();
+}*/
+
+int x=0;
+int y;
+Console.WriteLine("Veuillez saisir 6 nombres : ");
+
+for (int i = 0; i < 6; i++)
+{
+    string? nombre = Console.ReadLine();
+    int nb = int.Parse(nombre);
+    y = nb;
+    if (y > x)
+    {
+        x = y;
+    }
+}
+Console.WriteLine("Le plus grand des nombres saisis est : " + x);

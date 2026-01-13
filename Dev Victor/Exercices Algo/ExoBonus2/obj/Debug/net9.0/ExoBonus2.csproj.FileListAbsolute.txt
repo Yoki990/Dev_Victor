@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\bin\Debug\net9.0\ExoBonus2.exe
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\bin\Debug\net9.0\ExoBonus2.deps.json
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\bin\Debug\net9.0\ExoBonus2.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\bin\Debug\net9.0\ExoBonus2.dll
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\bin\Debug\net9.0\ExoBonus2.pdb
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.dll
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\refint\ExoBonus2.dll
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.pdb
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ExoBonus2.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus2\obj\Debug\net9.0\ref\ExoBonus2.dll

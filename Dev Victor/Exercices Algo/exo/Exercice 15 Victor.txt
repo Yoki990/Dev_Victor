@@ -1,0 +1,9 @@
+for (int prod = 1; prod <= 10; prod++)
+{
+    for (int i = 1; i <= 10; i++)
+    {
+        Console.WriteLine(prod + " x " + i + " = " + i * prod);
+    }
+    Console.WriteLine(" ");
+
+}

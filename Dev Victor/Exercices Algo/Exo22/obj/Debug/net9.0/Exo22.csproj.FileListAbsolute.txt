@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Dev Victor\Exo22\bin\Debug\net9.0\Exo22.exe
+C:\Users\userprf\Desktop\Dev Victor\Exo22\bin\Debug\net9.0\Exo22.deps.json
+C:\Users\userprf\Desktop\Dev Victor\Exo22\bin\Debug\net9.0\Exo22.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev Victor\Exo22\bin\Debug\net9.0\Exo22.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo22\bin\Debug\net9.0\Exo22.pdb
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\refint\Exo22.dll
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.pdb
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\Exo22.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev Victor\Exo22\obj\Debug\net9.0\ref\Exo22.dll

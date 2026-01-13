@@ -1,0 +1,7 @@
+for (int nombre=10; nombre <=30; nombre++)
+{
+    if (nombre%2 == 0)
+    {
+        Console.WriteLine(nombre);
+    }
+}

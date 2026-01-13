@@ -1,0 +1,35 @@
+  149  git init
+  150  touch file
+  151  git add .
+  152  git commit -m "Ajoute de file"
+  153  git log
+  154  nano file
+  155  git commit -m "Modification de file"
+  156  git add .
+  157  git commit -m "Modification de file"
+  158  gti log
+  159  git log
+  160  git log --oneline
+  161  git tag temp
+  162  git log
+  163  nano file
+  164  git add .
+  165  git commit -m "2eme modification de file"
+  166  git log
+  167  git tag v1.0 af3e096
+  168  git tag -a v1.0 -m "Version stable"
+  169  git tag -a v1.0 -m Version stable
+  170  git tag -a v1.0 -m "version stable"
+  171  git tag
+  172  git log
+  173  git show v1.0
+  174  git tag -a v1.0 -m "version stable"
+  175  git tag -d v1.0
+  176  git tag -a v1.0 -m "Version stable"
+  177  git tag
+  178  git checkout temp
+  179  git show temp
+  180  git checkout main
+  181  git reset --hard v1.0
+  182  git show v1.0
+  183  history

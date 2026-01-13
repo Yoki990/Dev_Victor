@@ -1,0 +1,36 @@
+  105  git init
+  106  git add fichier1.txt
+  107  git unit
+  108  git init
+  109  touch fichier1.txt
+  110  git commit -am "Ajout de fichier1"
+  111  git init
+  112  touch file1.txt
+  113  git add .
+  114  git commit -m "Ajout de file1"
+  115  git status
+  116  git log
+  117  touch file2.txt
+  118  git add .
+  119  git commit -m "Ajout de file2"
+  120  touch file3.txt
+  121  git add .
+  122  git commit -m "Ajout de file3"
+  123  nano file3.txt
+  124  history
+  125  git commit -m "Modification de file3"
+  126  git add .
+  127  git commit -m "Modification de file3"
+  128  history
+  129  git log --oneline
+  130  git diff 93bdbb4 7085fb2
+  131  git revert 6dd9420
+  132  git log --oneline
+  133  git status
+  134  git reset 7085fb2
+  135  git status
+  136  git add .
+  137  git status
+  138  git log
+  139  git commit -m "reinitialisation jusqu'à commit 1"
+  140  history

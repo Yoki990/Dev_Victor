@@ -1,0 +1,13 @@
+int compter_lettre_a = 0;
+
+Console.WriteLine("Veuillez entrer un mot: ");
+string mot = Console.ReadLine();
+
+for (int i = 0; i < mot.Length; i++)
+{
+    if (mot[i] == 'a')
+    {
+        compter_lettre_a += 1;
+    }
+}
+Console.WriteLine(compter_lettre_a);

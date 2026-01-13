@@ -1,0 +1,14 @@
+int nbPhotocopie = 25;
+			
+			if (nbPhotocopie < 10)
+			{
+			  Console.WriteLine("Vous devez payez " + nbPhotocopie * 0.5 + " €");
+			}
+			else if (nbPhotocopie <20)
+			{
+			  Console.WriteLine("Vous devez payez " + nbPhotocopie * 0.4 + " €");
+			}
+			else
+			{
+			  Console.WriteLine("Vous devez payez " + nbPhotocopie * 0.3 + " €");
+			}

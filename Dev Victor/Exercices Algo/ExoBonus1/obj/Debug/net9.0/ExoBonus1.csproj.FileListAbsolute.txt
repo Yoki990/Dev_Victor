@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\bin\Debug\net9.0\ExoBonus1.exe
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\bin\Debug\net9.0\ExoBonus1.deps.json
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\bin\Debug\net9.0\ExoBonus1.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\bin\Debug\net9.0\ExoBonus1.dll
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\bin\Debug\net9.0\ExoBonus1.pdb
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.dll
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\refint\ExoBonus1.dll
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.pdb
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ExoBonus1.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev Victor\ExoBonus1\obj\Debug\net9.0\ref\ExoBonus1.dll

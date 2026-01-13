@@ -1,0 +1,16 @@
+   76  git init
+   77  touch nouveauFichier.txt
+   78  git add .
+   79  nano nouveauFichier.txt
+   80  git add .
+   81  git log
+   82  git init
+   83  touch NouveauFichier.txt
+   84  git add .
+   85  git status
+   86  nano NouveauFichier.txt
+   87  git add .
+   88  history
+   89  git commit -am "Exo1 Git Victor"
+   90  git status
+   91  history

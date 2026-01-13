@@ -1,0 +1,29 @@
+int ab = 8;
+			int bc = 5;
+			int ca = 7;
+			
+			
+			if (ab == bc)
+			{
+			  if (ab == ca)
+			  {
+			    Console.WriteLine("Le triangle est équilatéral");
+			  }
+			  else 
+			  {
+			    Console.WriteLine("Le triangle est isocèle en B");
+			  }
+		  
+			}
+			else if (ab == ca)
+			{
+			    Console.WriteLine("Le triangle est isocèle en A");
+			}
+			else if (bc == ca)
+			{
+			    Console.WriteLine("Le triangle est isocèle en C");
+			}
+			else
+			{
+			    Console.WriteLine("Le triangle n'est isocèle ni en A, B et C");
+			}

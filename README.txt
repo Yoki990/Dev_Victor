@@ -1,1 +1,1 @@
-Initialisation de mon repot GitHub
+Initialisation de mon repo GitHub

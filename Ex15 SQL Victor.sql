@@ -1,6 +1,6 @@
 SELECT first_name, location, age
 FROM Users
-WHERE location = (SELECT location FROM Users ORDER BY age DESC LIMIT 1);
+WHERE location = (SELECT location FROM Users ORDER BY age LIMIT 1);
 
 SELECT first_name, salary
 FROM Users

@@ -18,7 +18,7 @@ FROM Users
 GROUP BY birth_date
 HAVING COUNT(birth_date) > 1;
 
-SELECT job, location, SUM(salary) AS salaire_maximum
+SELECT job, location, MAX(salary) AS salaire_maximum
 FROM Users
-GROUP BY job
-HAVING SUM(salary) > 3000;
+GROUP BY job, location
+HAVING MAX(salary) > 3000;

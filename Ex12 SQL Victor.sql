@@ -1,0 +1,14 @@
+SELECT *
+FROM Users
+ORDER BY age DESC
+LIMIT 5;
+
+SELECT *
+FROM Users
+ORDER BY first_name
+LIMIT 5 OFFSET 5;
+
+SELECT *
+FROM Users
+ORDER BY salary DESC
+LIMIT 3;

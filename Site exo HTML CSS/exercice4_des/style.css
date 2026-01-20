@@ -1,0 +1,297 @@
+#dice-1{
+   
+    width:300px;
+    height:300px;
+    border-radius: 30px;
+    background-color:rgba(245, 245, 220);
+    position:absolute;
+    top:30px;
+    left:30px;
+}
+
+#dice-1 .middle-center {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:125px;
+    left:125px;
+}
+
+#dice-2{
+   
+    width:300px;
+    height:300px;
+    border-radius: 30px;
+    background-color:rgba(245, 245, 220);
+    position:absolute;
+    top:30px;
+    left:390px;
+}
+
+#dice-2 .top-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:25px;
+}
+
+#dice-2 .bottom-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:225px;
+}
+
+#dice-3{
+   
+    width:300px;
+    height:300px;
+    border-radius: 30px;
+    background-color:rgba(245, 245, 220);
+    position:absolute;
+    top:30px;
+    left:750px;
+}
+
+
+#dice-3 .top-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:25px;
+}
+
+#dice-3 .middle-center {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:125px;
+    left:125px;
+}
+
+#dice-3 .bottom-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:225px;
+}
+
+#dice-4{
+   
+    width:300px;
+    height:300px;
+    border-radius: 30px;
+    background-color:rgba(245, 245, 220);
+    position:absolute;
+    top:390px;
+    left:30px;
+}
+
+#dice-4 .top-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:25px;
+}
+
+#dice-4 .top-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:225px;
+}
+
+#dice-4 .bottom-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:25px;
+}
+
+#dice-4 .bottom-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:225px;
+}
+
+#dice-5{
+   
+    width:300px;
+    height:300px;
+    border-radius: 30px;
+    background-color:rgba(245, 245, 220);
+    position:absolute;
+    top:390px;
+    left:390px;
+}
+
+#dice-5 .top-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:25px;
+}
+
+#dice-5 .top-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:225px;
+}
+
+#dice-5 .middle-center {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:125px;
+    left:125px;
+}
+
+#dice-5 .bottom-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:25px;
+}
+
+#dice-5 .bottom-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:225px;
+}
+
+#dice-6{
+   
+    width:300px;
+    height:300px;
+    border-radius: 30px;
+    background-color:rgba(245, 245, 220);
+    position:absolute;
+    top:390px;
+    left:750px;
+}
+
+#dice-6 .top-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:25px;
+}
+
+#dice-6 .top-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:25px;
+    left:225px;
+}
+
+#dice-6 .middle-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:125px;
+    left:25px;
+}
+
+#dice-6 .middle-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:125px;
+    left:225px;
+}
+
+#dice-6 .bottom-left {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:25px;
+}
+
+#dice-6 .bottom-right {
+   
+    width:50px;
+    height:50px;
+    border-radius:40px;
+    background-color:red;
+    position:absolute;
+    top:225px;
+    left:225px;
+}

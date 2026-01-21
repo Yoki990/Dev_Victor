@@ -1,0 +1,7 @@
+#horaires{
+    text-align: center;
+}
+
+.contact, .heure{
+    display:inline;
+}

@@ -1,25 +1,6 @@
 ﻿Console.Write("Veuillez saisir un poids (en kg): ");
 string? chainePoids = Console.ReadLine();
 
-
-if (chainePoids == "")
-{
-    chainePoids = "Poids invalide";
-}
-    int poids = Convert.ToInt32(chainePoids);
-    Console.WriteLine(poids * 2);
-
-
-    /*string kilo = poids ?? "Poids invalide";*/
-
-    //Console.WriteLine(poids);
-
-/*poids ??= "Poids invalide";
-Console.WriteLine(poids);*/
-
-/*string kilo = poids ?? "Poids invalide";
-Console.WriteLine(kilo);*/
-
 Console.WriteLine("\n");
 
 Console.WriteLine("Mode de livraison:");
@@ -27,7 +8,39 @@ Console.WriteLine("1- Standard");
 Console.WriteLine("2- Express");
 Console.WriteLine("\n");
 Console.Write("Veuillez choisir votre mode de livraison: ");
-int livraison = int.Parse(Console.ReadLine());
+string? chaineLivraison = Console.ReadLine();
+
+int poids = -1;
+int livraison;
+
+if (chainePoids == "")
+{
+    chainePoids = "Poids invalide";
+    Console.WriteLine(chainePoids);
+}
+else
+{
+    poids = Convert.ToInt32(chainePoids);
+    Console.WriteLine("Poids = " + poids + "" + poids.GetType());
+    if (chaineLivraison == "")
+    {
+        chaineLivraison = "Mode invalide";
+        Console.WriteLine(chaineLivraison);
+    }
+    else
+    {
+        livraison = Convert.ToInt32(chaineLivraison);
+        Console.WriteLine(livraison);
+
+        if (poids <= 0)
+        {
+
+        }
+    }
+}
+
+/*if (poids <= 0)*/
+/*Console.WriteLine($"Avec {chainePoids} kg et un mode de livraison express: le tarif de livraison est de az");*/
 
 
 /*int saisie = poids ?? 0;

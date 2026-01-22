@@ -3,14 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31BDBCF0-47DA-43DA-8D43-89BA1FA2F659}|Ex5\\Ex5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31BDBCF0-47DA-43DA-8D43-89BA1FA2F659}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{059EA95D-875D-48B2-9C61-B040C85081A7}|Ex7\\Ex7.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059EA95D-875D-48B2-9C61-B040C85081A7}|Ex7\\Ex7.csproj|solutionrelative:ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\Dev_Victor\\Demo\\test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DAB7D94-04D4-4CD8-967E-3A6A01F8AC4D}|Ex9\\Ex9.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DAB7D94-04D4-4CD8-967E-3A6A01F8AC4D}|Ex9\\Ex9.csproj|solutionrelative:ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4485D0-1F90-3251-7D3F-E302A30B031C}|Ex6\\Ex6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4485D0-1F90-3251-7D3F-E302A30B031C}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,30 +25,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Demo\\test\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Demo\\test\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Demo\\test\\Program.cs",
-              "RelativeToolTip": "..\\..\\Demo\\test\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T12:42:55.587Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex5\\Program.cs",
-              "RelativeDocumentMoniker": "Ex5\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex5\\Program.cs*",
-              "RelativeToolTip": "Ex5\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex7\\Program.cs",
+              "RelativeDocumentMoniker": "Ex7\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex7\\Program.cs",
+              "RelativeToolTip": "Ex7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T10:54:05.727Z",
+              "WhenOpened": "2026-01-22T08:31:40.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:24:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex9\\Program.cs",
+              "RelativeDocumentMoniker": "Ex9\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex9\\Program.cs",
+              "RelativeToolTip": "Ex9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T08:15:41.827Z",
               "EditorCaption": ""
             }
           ]
@@ -54,10 +74,10 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "63b70720-7596-4094-ac89-96751dace898",
+        "Id": "156569c8-c642-4d18-b2aa-8741fd0c5b38",
         "Display": 1,
-        "X": 154,
-        "Y": 475,
+        "X": 687,
+        "Y": 247,
         "Width": 1193,
         "Height": 663,
         "WindowState": 0
@@ -75,9 +95,9 @@
               "RelativeDocumentMoniker": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
               "RelativeToolTip": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAQBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T10:36:52.668Z",
+              "WhenOpened": "2026-01-22T07:26:59.424Z",
               "EditorCaption": ""
             }
           ]

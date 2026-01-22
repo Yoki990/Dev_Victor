@@ -3,34 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9AF3374-E353-4F1D-A427-7F03B05E3F57}|Ex19\\Ex19.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9AF3374-E353-4F1D-A427-7F03B05E3F57}|Ex19\\Ex19.csproj|solutionrelative:ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoTableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CDCD68A-3DB3-4D48-AB4E-07736D249F06}|Ex17\\Ex17.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CDCD68A-3DB3-4D48-AB4E-07736D249F06}|Ex17\\Ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571EB276-8EE9-43A6-BE8E-719F7253B6B8}|Ex18\\Ex18.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571EB276-8EE9-43A6-BE8E-719F7253B6B8}|Ex18\\Ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA81DA14-628E-4639-AA38-4BD32938A7CB}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA81DA14-628E-4639-AA38-4BD32938A7CB}|Ex15\\Ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDDE0D45-E678-4A80-94E4-4692801BD190}|Ex16\\Ex16.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDDE0D45-E678-4A80-94E4-4692801BD190}|Ex16\\Ex16.csproj|solutionrelative:ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAEA8314-FAC9-4DF8-B0FC-15C376E3E29A}|EXBonus32\\EXBonus32.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\exbonus32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEA8314-FAC9-4DF8-B0FC-15C376E3E29A}|EXBonus32\\EXBonus32.csproj|solutionrelative:exbonus32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A2E306-69F2-8BA7-645F-576C5691F46A}|ExBonus30\\ExBonus30.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\exbonus30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A2E306-69F2-8BA7-645F-576C5691F46A}|ExBonus30\\ExBonus30.csproj|solutionrelative:exbonus30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoTableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,84 +20,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex19\\Program.cs",
-              "RelativeDocumentMoniker": "Ex19\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex19\\Program.cs",
-              "RelativeToolTip": "Ex19\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\EXBonus32\\Program.cs",
+              "RelativeDocumentMoniker": "EXBonus32\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\EXBonus32\\Program.cs",
+              "RelativeToolTip": "EXBonus32\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T15:37:12.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex18\\Program.cs",
-              "RelativeDocumentMoniker": "Ex18\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex18\\Program.cs",
-              "RelativeToolTip": "Ex18\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T15:25:21.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex17\\Program.cs",
-              "RelativeDocumentMoniker": "Ex17\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex17\\Program.cs",
-              "RelativeToolTip": "Ex17\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T15:07:48.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex16\\Program.cs",
-              "RelativeDocumentMoniker": "Ex16\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex16\\Program.cs",
-              "RelativeToolTip": "Ex16\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T14:18:39.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex15\\Program.cs",
-              "RelativeDocumentMoniker": "Ex15\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex15\\Program.cs",
-              "RelativeToolTip": "Ex15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T14:07:37.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\ExBonus30\\Program.cs",
-              "RelativeDocumentMoniker": "ExBonus30\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\ExBonus30\\Program.cs",
-              "RelativeToolTip": "ExBonus30\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T11:09:17.458Z",
+              "WhenOpened": "2026-01-22T15:45:06.86Z",
               "EditorCaption": ""
             }
           ]
@@ -139,30 +54,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DemoRecap.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoRecap.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap.cs",
               "RelativeToolTip": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoRecap.cs",
-              "ViewState": "AgIAAE4BAAAAAAAAAAAAAGUBAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAAAGUBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T14:30:31.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DemoTableau.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoTableau.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoTableau.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoTableau.cs",
               "RelativeToolTip": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoTableau.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAIYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T14:05:30.635Z",
               "EditorCaption": ""

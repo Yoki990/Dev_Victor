@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.sourcelink.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\bin\Debug\net9.0\ExBonus21.exe
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\bin\Debug\net9.0\ExBonus21.deps.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\bin\Debug\net9.0\ExBonus21.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\bin\Debug\net9.0\ExBonus21.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\bin\Debug\net9.0\ExBonus21.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\refint\ExBonus21.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ExBonus21.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus21\obj\Debug\net9.0\ref\ExBonus21.dll

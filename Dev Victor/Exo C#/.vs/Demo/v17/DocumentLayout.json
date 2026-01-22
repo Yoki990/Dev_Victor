@@ -1,7 +1,15 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3000FC13-48F0-4170-8343-A6B1BFBFEA0B}|ExBonus30\\ExBonus30.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\exo c#\\exbonus30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3000FC13-48F0-4170-8343-A6B1BFBFEA0B}|ExBonus30\\ExBonus30.csproj|solutionrelative:exbonus30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +17,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": []
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\ExBonus30\\Program.cs",
+              "RelativeDocumentMoniker": "ExBonus30\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\ExBonus30\\Program.cs",
+              "RelativeToolTip": "ExBonus30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:09:17.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "71f07590-b91b-4ceb-b674-40c7aebfe9c0",
+        "Display": 1,
+        "X": 43,
+        "Y": 465,
+        "Width": 1193,
+        "Height": 663,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\MCDP\\05_C#_Base\\Demos\\DemoRecap\\DemoRecap\\Program.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAAAGMBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:22:55.823Z",
+              "EditorCaption": ""
+            }
+          ]
         }
       ]
     }

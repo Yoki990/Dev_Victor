@@ -14,21 +14,9 @@ for (int i = 0; i < nombre.Length; i++)
 
 Console.WriteLine("Affichage des valeurs du tableau :\n");
 
-
-/*Console.WriteLine(nombre[0]);*/
 for (int j = 0; j < nombre.Length; j++)
 {
     valeurs = $"{nombre[j]}";
-    Console.WriteLine(valeurs);
-
-    /*valeurs = val + $"{nombre[j]}";
-    val = "     " + valeurs + "     ";
-    Console.WriteLine(val);*/
-    /*val = "      " + valeurs;*/
+    Console.WriteLine(val + valeurs);
+    val = "     " + val;
 }
-
-/*foreach (int note in nombre)
-{
-    Console.WriteLine(note);
-}
-Console.WriteLine();*/

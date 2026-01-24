@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEA8314-FAC9-4DF8-B0FC-15C376E3E29A}|EXBonus32\\EXBonus32.csproj|c:\\users\\victo\\onedrive\\bureau\\dev_victor\\dev victor\\exo c#\\exbonus32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEA8314-FAC9-4DF8-B0FC-15C376E3E29A}|EXBonus32\\EXBonus32.csproj|solutionrelative:exbonus32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\EXBonus32\\Program.cs",
+              "RelativeDocumentMoniker": "EXBonus32\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\EXBonus32\\Program.cs",
+              "RelativeToolTip": "EXBonus32\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T05:12:16.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

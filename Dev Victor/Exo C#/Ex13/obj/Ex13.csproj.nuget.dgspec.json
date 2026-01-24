@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj": {}
+    "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj": {
+    "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj",
         "projectName": "Ex13",
-        "projectPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj",
-        "packagesPath": "C:\\Users\\userprf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\obj\\",
+        "projectPath": "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\Ex13.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\OneDrive\\Bureau\\Dev_Victor\\Dev Victor\\Exo C#\\Ex13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\userprf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -56,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

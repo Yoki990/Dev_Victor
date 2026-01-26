@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\bin\Debug\net9.0\ExBonus34.exe
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\bin\Debug\net9.0\ExBonus34.deps.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\bin\Debug\net9.0\ExBonus34.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\bin\Debug\net9.0\ExBonus34.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\bin\Debug\net9.0\ExBonus34.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.sourcelink.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\refint\ExBonus34.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ExBonus34.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\ExBonus34\obj\Debug\net9.0\ref\ExBonus34.dll

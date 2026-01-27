@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\bin\Debug\net9.0\Ex23.exe
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\bin\Debug\net9.0\Ex23.deps.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\bin\Debug\net9.0\Ex23.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\bin\Debug\net9.0\Ex23.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\bin\Debug\net9.0\Ex23.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.sourcelink.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\refint\Ex23.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\Ex23.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex33\obj\Debug\net9.0\ref\Ex23.dll

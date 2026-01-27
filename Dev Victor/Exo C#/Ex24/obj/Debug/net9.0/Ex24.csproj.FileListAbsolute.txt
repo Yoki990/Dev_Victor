@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\bin\Debug\net9.0\Ex24.exe
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\bin\Debug\net9.0\Ex24.deps.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\bin\Debug\net9.0\Ex24.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\bin\Debug\net9.0\Ex24.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\bin\Debug\net9.0\Ex24.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.sourcelink.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\refint\Ex24.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\Ex24.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Exo C#\Ex24\obj\Debug\net9.0\ref\Ex24.dll

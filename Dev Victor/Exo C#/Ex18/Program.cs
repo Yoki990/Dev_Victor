@@ -1,10 +1,10 @@
-﻿int[] notes = { 1,3, 15, 23 };
+﻿int[] notes = { 1, 3, 15, 23 };
 
 int compteur = 0;
 
 while (compteur < notes.Length)
 {
-    if(notes[compteur] < 10)
+    if (notes[compteur] < 10)
     {
         notes[compteur] = 10;
         compteur++;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex33\\Ex23.csproj": {}
+    "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex23\\Ex23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex33\\Ex23.csproj": {
+    "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex23\\Ex23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex33\\Ex23.csproj",
+        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex23\\Ex23.csproj",
         "projectName": "Ex23",
-        "projectPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex33\\Ex23.csproj",
+        "projectPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex23\\Ex23.csproj",
         "packagesPath": "C:\\Users\\userprf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex33\\obj\\",
+        "outputPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Exo C#\\Ex23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userprf\\AppData\\Roaming\\NuGet\\NuGet.Config",

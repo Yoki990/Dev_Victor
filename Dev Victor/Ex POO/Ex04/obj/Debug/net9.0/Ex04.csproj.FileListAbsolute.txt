@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\bin\Debug\net9.0\Ex04.exe
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\bin\Debug\net9.0\Ex04.deps.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\bin\Debug\net9.0\Ex04.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\bin\Debug\net9.0\Ex04.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\bin\Debug\net9.0\Ex04.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.sourcelink.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\refint\Ex04.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\Ex04.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex04\obj\Debug\net9.0\ref\Ex04.dll

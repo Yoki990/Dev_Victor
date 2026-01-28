@@ -27,7 +27,7 @@ namespace Ex04.Classe
             _nbChiens++;            
         }
 
-        public Chien(string nom, string race, int age, string nomDuChenil) : this()
+        public Chien(string nom, string race, int age) : this()
         {
             Nom = nom;
             Race = race;

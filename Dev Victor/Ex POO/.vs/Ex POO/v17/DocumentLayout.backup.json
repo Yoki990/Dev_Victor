@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\classes\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\classes\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\classes\\voiturehybride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\classes\\voiturehybride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\classes\\hydravion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\classes\\hydravion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\interfaces\\iflottant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\interfaces\\iflottant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\interfaces\\ideplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\interfaces\\ideplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\interfaces\\ielectrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\interfaces\\ielectrique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\interfaces\\imotorise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\interfaces\\imotorise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\classes\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\classes\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex12\\interfaces\\ivolant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD5C952-44BC-425C-9684-EFA61785371B}|Ex12\\Ex12.csproj|solutionrelative:ex12\\interfaces\\ivolant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Hydravion.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\Hydravion.cs",
-              "RelativeDocumentMoniker": "Ex12\\Classes\\Hydravion.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\Hydravion.cs",
-              "RelativeToolTip": "Ex12\\Classes\\Hydravion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:44:07.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VoitureHybride.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\VoitureHybride.cs",
-              "RelativeDocumentMoniker": "Ex12\\Classes\\VoitureHybride.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\VoitureHybride.cs*",
-              "RelativeToolTip": "Ex12\\Classes\\VoitureHybride.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:43:55.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Voiture.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\Voiture.cs",
-              "RelativeDocumentMoniker": "Ex12\\Classes\\Voiture.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\Voiture.cs*",
-              "RelativeToolTip": "Ex12\\Classes\\Voiture.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:43:31.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IVolant.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IVolant.cs",
-              "RelativeDocumentMoniker": "Ex12\\Interfaces\\IVolant.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IVolant.cs",
-              "RelativeToolTip": "Ex12\\Interfaces\\IVolant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:42:47.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFlottant.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IFlottant.cs",
-              "RelativeDocumentMoniker": "Ex12\\Interfaces\\IFlottant.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IFlottant.cs",
-              "RelativeToolTip": "Ex12\\Interfaces\\IFlottant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:39:39.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IElectrique.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IElectrique.cs",
-              "RelativeDocumentMoniker": "Ex12\\Interfaces\\IElectrique.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IElectrique.cs",
-              "RelativeToolTip": "Ex12\\Interfaces\\IElectrique.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:38:29.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IMotorise.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IMotorise.cs",
-              "RelativeDocumentMoniker": "Ex12\\Interfaces\\IMotorise.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Interfaces\\IMotorise.cs",
-              "RelativeToolTip": "Ex12\\Interfaces\\IMotorise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Ex13\\Classes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Triangle.cs",
+              "RelativeToolTip": "Ex13\\Classes\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:38:18.502Z",
+              "WhenOpened": "2026-01-29T16:17:41.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Vehicule.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\Vehicule.cs",
-              "RelativeDocumentMoniker": "Ex12\\Classes\\Vehicule.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Classes\\Vehicule.cs",
-              "RelativeToolTip": "Ex12\\Classes\\Vehicule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Ex13\\Classes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Ex13\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:36:12.24Z",
+              "WhenOpened": "2026-01-29T16:15:18.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Program.cs",
-              "RelativeDocumentMoniker": "Ex12\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex12\\Program.cs",
-              "RelativeToolTip": "Ex12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Carre.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Carre.cs",
+              "RelativeDocumentMoniker": "Ex13\\Classes\\Carre.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Carre.cs",
+              "RelativeToolTip": "Ex13\\Classes\\Carre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:35:19.266Z",
+              "WhenOpened": "2026-01-29T14:51:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeplacable.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Interfaces\\IDeplacable.cs",
+              "RelativeDocumentMoniker": "Ex13\\Interfaces\\IDeplacable.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Interfaces\\IDeplacable.cs",
+              "RelativeToolTip": "Ex13\\Interfaces\\IDeplacable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:18:45.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Figure.cs",
+              "RelativeDocumentMoniker": "Ex13\\Classes\\Figure.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Figure.cs",
+              "RelativeToolTip": "Ex13\\Classes\\Figure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:15:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Point.cs",
+              "RelativeDocumentMoniker": "Ex13\\Classes\\Point.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Point.cs*",
+              "RelativeToolTip": "Ex13\\Classes\\Point.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:12:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Program.cs",
+              "RelativeDocumentMoniker": "Ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Program.cs",
+              "RelativeToolTip": "Ex13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:11:59.612Z",
               "EditorCaption": ""
             }
           ]

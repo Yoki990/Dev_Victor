@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83B961BF-D91D-4794-8BD5-E2B646128F2D}|Ex08\\Ex08.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B961BF-D91D-4794-8BD5-E2B646128F2D}|Ex08\\Ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B961BF-D91D-4794-8BD5-E2B646128F2D}|Ex08\\Ex08.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex08\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B961BF-D91D-4794-8BD5-E2B646128F2D}|Ex08\\Ex08.csproj|solutionrelative:ex08\\classes\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\classes\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\classes\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CB64DEF-C0DF-4C09-BE6C-A9577FCB5F34}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CB64DEF-C0DF-4C09-BE6C-A9577FCB5F34}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CB64DEF-C0DF-4C09-BE6C-A9577FCB5F34}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex02\\ex02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CB64DEF-C0DF-4C09-BE6C-A9577FCB5F34}|Ex02\\Ex02.csproj|solutionrelative:ex02\\ex02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\classes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\classes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,53 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex02\\Program.cs",
-              "RelativeDocumentMoniker": "Ex02\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex02\\Program.cs",
-              "RelativeToolTip": "Ex02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Cercle.cs",
+              "RelativeDocumentMoniker": "Ex10\\Classes\\Cercle.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Cercle.cs",
+              "RelativeToolTip": "Ex10\\Classes\\Cercle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T12:52:02.055Z",
+              "WhenOpened": "2026-01-28T15:59:38.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ex02.csproj",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex02\\Ex02.csproj",
-              "RelativeDocumentMoniker": "Ex02\\Ex02.csproj",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex02\\Ex02.csproj",
-              "RelativeToolTip": "Ex02\\Ex02.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-28T12:52:00.341Z"
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Ex10\\Classes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Ex10\\Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:59:18.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CompteBancaire.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex08\\Classes\\CompteBancaire.cs",
-              "RelativeDocumentMoniker": "Ex08\\Classes\\CompteBancaire.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex08\\Classes\\CompteBancaire.cs",
-              "RelativeToolTip": "Ex08\\Classes\\CompteBancaire.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwC8AAAAhAAAAAAAAAA==",
+              "Title": "Forme.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Forme.cs",
+              "RelativeDocumentMoniker": "Ex10\\Classes\\Forme.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Forme.cs",
+              "RelativeToolTip": "Ex10\\Classes\\Forme.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T11:09:14.197Z",
+              "WhenOpened": "2026-01-28T15:52:56.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex08\\Program.cs",
-              "RelativeDocumentMoniker": "Ex08\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex08\\Program.cs",
-              "RelativeToolTip": "Ex08\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Program.cs*",
+              "RelativeToolTip": "Ex10\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T11:05:59.665Z",
+              "WhenOpened": "2026-01-28T15:51:07.147Z",
               "EditorCaption": ""
             }
           ]

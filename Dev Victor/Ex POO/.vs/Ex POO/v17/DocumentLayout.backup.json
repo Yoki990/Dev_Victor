@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex11\\classes\\scientifique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|solutionrelative:ex11\\classes\\scientifique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\classes\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\classes\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex11\\classes\\travailleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|solutionrelative:ex11\\classes\\travailleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex11\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|solutionrelative:ex11\\classes\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex10\\classes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEFE12B5-3ABF-47BA-AECC-60D4CAE9D620}|Ex10\\Ex10.csproj|solutionrelative:ex10\\classes\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56E1CF9-E257-4C19-8D08-C659C9002245}|Ex11\\Ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cercle.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Cercle.cs",
-              "RelativeDocumentMoniker": "Ex10\\Classes\\Cercle.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Cercle.cs",
-              "RelativeToolTip": "Ex10\\Classes\\Cercle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Scientifique.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Classes\\Scientifique.cs",
+              "RelativeDocumentMoniker": "Ex11\\Classes\\Scientifique.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Classes\\Scientifique.cs*",
+              "RelativeToolTip": "Ex11\\Classes\\Scientifique.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:59:38.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Ex10\\Classes\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Rectangle.cs",
-              "RelativeToolTip": "Ex10\\Classes\\Rectangle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:59:18.905Z",
+              "WhenOpened": "2026-01-29T09:29:46.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Forme.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Forme.cs",
-              "RelativeDocumentMoniker": "Ex10\\Classes\\Forme.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Classes\\Forme.cs",
-              "RelativeToolTip": "Ex10\\Classes\\Forme.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Title": "Travailleur.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Classes\\Travailleur.cs",
+              "RelativeDocumentMoniker": "Ex11\\Classes\\Travailleur.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Classes\\Travailleur.cs",
+              "RelativeToolTip": "Ex11\\Classes\\Travailleur.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:52:56.758Z",
+              "WhenOpened": "2026-01-29T09:19:27.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Program.cs",
-              "RelativeDocumentMoniker": "Ex10\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex10\\Program.cs*",
-              "RelativeToolTip": "Ex10\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Classes\\Personne.cs",
+              "RelativeDocumentMoniker": "Ex11\\Classes\\Personne.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Classes\\Personne.cs",
+              "RelativeToolTip": "Ex11\\Classes\\Personne.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:51:07.147Z",
+              "WhenOpened": "2026-01-29T09:14:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Program.cs",
+              "RelativeDocumentMoniker": "Ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex11\\Program.cs",
+              "RelativeToolTip": "Ex11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:13:41.327Z",
               "EditorCaption": ""
             }
           ]

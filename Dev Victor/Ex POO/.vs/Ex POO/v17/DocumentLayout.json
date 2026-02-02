@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\classes\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\classes\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\classes\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\classes\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\classes\\guerriermage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\classes\\guerriermage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\interfaces\\ideplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\interfaces\\ideplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\classes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\classes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\carre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\interfaces\\iattaquespeciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\interfaces\\iattaquespeciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex13\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54BDBAB9-85F8-4945-9843-CC44FB6C8B07}|Ex13\\Ex13.csproj|solutionrelative:ex13\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\classes\\arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\classes\\arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex15\\interfaces\\imagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE3A67-0A22-412F-A30C-3793C0D33698}|Ex15\\Ex15.csproj|solutionrelative:ex15\\interfaces\\imagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,93 +46,106 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Triangle.cs",
-              "RelativeDocumentMoniker": "Ex13\\Classes\\Triangle.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Triangle.cs",
-              "RelativeToolTip": "Ex13\\Classes\\Triangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GuerrierMage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\GuerrierMage.cs",
+              "RelativeDocumentMoniker": "Ex15\\Classes\\GuerrierMage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\GuerrierMage.cs",
+              "RelativeToolTip": "Ex15\\Classes\\GuerrierMage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T16:17:41.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Ex13\\Classes\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Rectangle.cs",
-              "RelativeToolTip": "Ex13\\Classes\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T16:15:18.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Carre.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Carre.cs",
-              "RelativeDocumentMoniker": "Ex13\\Classes\\Carre.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Carre.cs",
-              "RelativeToolTip": "Ex13\\Classes\\Carre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T14:51:53.643Z",
+              "WhenOpened": "2026-02-02T14:57:21.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IDeplacable.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Interfaces\\IDeplacable.cs",
-              "RelativeDocumentMoniker": "Ex13\\Interfaces\\IDeplacable.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Interfaces\\IDeplacable.cs",
-              "RelativeToolTip": "Ex13\\Interfaces\\IDeplacable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Mage.cs",
+              "RelativeDocumentMoniker": "Ex15\\Classes\\Mage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Mage.cs",
+              "RelativeToolTip": "Ex15\\Classes\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T14:18:45.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Figure.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Figure.cs",
-              "RelativeDocumentMoniker": "Ex13\\Classes\\Figure.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Figure.cs",
-              "RelativeToolTip": "Ex13\\Classes\\Figure.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T14:15:40.386Z",
+              "WhenOpened": "2026-02-02T14:11:01.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Point.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Point.cs",
-              "RelativeDocumentMoniker": "Ex13\\Classes\\Point.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Classes\\Point.cs",
-              "RelativeToolTip": "Ex13\\Classes\\Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAApAAAAAAAAAA==",
+              "Title": "Guerrier.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Guerrier.cs",
+              "RelativeDocumentMoniker": "Ex15\\Classes\\Guerrier.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Guerrier.cs",
+              "RelativeToolTip": "Ex15\\Classes\\Guerrier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T14:12:42.798Z",
+              "WhenOpened": "2026-02-02T13:15:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMAgie.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Interfaces\\IMAgie.cs",
+              "RelativeDocumentMoniker": "Ex15\\Interfaces\\IMAgie.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Interfaces\\IMAgie.cs",
+              "RelativeToolTip": "Ex15\\Interfaces\\IMAgie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:14:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAttaqueSpeciale.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Interfaces\\IAttaqueSpeciale.cs",
+              "RelativeDocumentMoniker": "Ex15\\Interfaces\\IAttaqueSpeciale.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Interfaces\\IAttaqueSpeciale.cs",
+              "RelativeToolTip": "Ex15\\Interfaces\\IAttaqueSpeciale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:12:50.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arme.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Arme.cs",
+              "RelativeDocumentMoniker": "Ex15\\Classes\\Arme.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Arme.cs",
+              "RelativeToolTip": "Ex15\\Classes\\Arme.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:09:41.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Program.cs",
-              "RelativeDocumentMoniker": "Ex13\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex13\\Program.cs",
-              "RelativeToolTip": "Ex13\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Title": "Personnage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Personnage.cs",
+              "RelativeDocumentMoniker": "Ex15\\Classes\\Personnage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Classes\\Personnage.cs",
+              "RelativeToolTip": "Ex15\\Classes\\Personnage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T14:11:59.612Z",
+              "WhenOpened": "2026-02-02T13:03:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex15\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex15\\Program.cs",
+              "RelativeToolTip": "Ex15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:03:19.183Z",
               "EditorCaption": ""
             }
           ]

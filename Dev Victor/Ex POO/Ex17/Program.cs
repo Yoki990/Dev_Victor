@@ -28,4 +28,4 @@ temperature.Sort();
 Console.WriteLine();
 
 Console.WriteLine($"La température la plus basse saisie est : {temperature[0]}");
-Console.WriteLine($"La température la plus basse saisie est : {temperature[temperature.Count -1]}");
+Console.WriteLine($"La température la plus haute saisie est : {temperature[temperature.Count -1]}");

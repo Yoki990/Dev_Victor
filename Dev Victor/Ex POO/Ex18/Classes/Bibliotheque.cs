@@ -15,7 +15,7 @@ namespace Ex18.Classes
             Random random = new Random ();
 
             book.Add(new Livre(1, "Chaperon rouge", "Charles Perrault", random.Next(10,51)));
-            book.Add(new Livre(2, "Toto", "Titi", random.Next(10, 51)));
+            book.Add(new Livre(2, "Toto", "Titi Tutu", random.Next(10, 51)));
             book.Add(new Livre(3, "L'Ecume des jours", "Boris Vian", random.Next(10, 51)));
         }
 
@@ -34,10 +34,8 @@ namespace Ex18.Classes
 
         public void RechercheLivreTitre()
         {
-            if (book.Contains("Chaperon rouge"))
-            {
-
-            }
+            Livre resultat = book.Find(title => title.Titre == "Chaperon rouge");
+            Console.WriteLine(resultat != null ? resultat.Numero : "Livre pas trouvé");
         }
     }
 

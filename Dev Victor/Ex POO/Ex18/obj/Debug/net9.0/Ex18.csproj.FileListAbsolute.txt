@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.sourcelink.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\bin\Debug\net9.0\Ex18.exe
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\bin\Debug\net9.0\Ex18.deps.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\bin\Debug\net9.0\Ex18.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\bin\Debug\net9.0\Ex18.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\bin\Debug\net9.0\Ex18.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\refint\Ex18.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.pdb
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\Ex18.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex POO\Ex18\obj\Debug\net9.0\ref\Ex18.dll

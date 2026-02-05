@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1896F9C8-4E4A-4BDE-9FB5-C6AD568DF4B8}|Ex20\\Ex20.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1896F9C8-4E4A-4BDE-9FB5-C6AD568DF4B8}|Ex20\\Ex20.csproj|solutionrelative:ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83316791-50CD-4DEB-82DB-8049E757D0EA}|Ex21\\Ex21.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83316791-50CD-4DEB-82DB-8049E757D0EA}|Ex21\\Ex21.csproj|solutionrelative:ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83316791-50CD-4DEB-82DB-8049E757D0EA}|Ex21\\Ex21.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex poo\\ex21\\exceptions\\invalidarrayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83316791-50CD-4DEB-82DB-8049E757D0EA}|Ex21\\Ex21.csproj|solutionrelative:ex21\\exceptions\\invalidarrayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidArrayException.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex21\\Exceptions\\InvalidArrayException.cs",
+              "RelativeDocumentMoniker": "Ex21\\Exceptions\\InvalidArrayException.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex21\\Exceptions\\InvalidArrayException.cs",
+              "RelativeToolTip": "Ex21\\Exceptions\\InvalidArrayException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:39:44.583Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex20\\Program.cs",
-              "RelativeDocumentMoniker": "Ex20\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex20\\Program.cs",
-              "RelativeToolTip": "Ex20\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFUAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex21\\Program.cs",
+              "RelativeDocumentMoniker": "Ex21\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex POO\\Ex21\\Program.cs",
+              "RelativeToolTip": "Ex21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T08:15:24.161Z",
+              "WhenOpened": "2026-02-05T11:20:48.413Z",
               "EditorCaption": ""
             }
           ]

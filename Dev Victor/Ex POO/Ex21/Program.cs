@@ -7,7 +7,7 @@ static double calculMoyenne(int[] notes)
     {
         a += notes[i];
     }
-    return a / notes.Length;
+    return (float) a / notes.Length;
 }
 
 int[] notes = [20, 12, 20, 9];

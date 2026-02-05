@@ -78,12 +78,10 @@ patient.Enqueue("Patrick");
 patient.Enqueue("Noa");
 patient.Enqueue("Nathalie");
 
-while (pseudoVerif.Count > 0)
+while (patient.Count > 0)
 {
     Console.WriteLine($"Le premier de la file est {patient.Dequeue()}. Il reste {patient.Count} personnes dans la file d'attente.\n");
 }
 
 Console.WriteLine($"C'est l'heure de la pause");
-
-// Cas 3
 

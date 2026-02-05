@@ -1,6 +1,6 @@
 ﻿using Ex21.Exceptions;
 
-static int calculMoyenne(int[] notes)
+static double calculMoyenne(int[] notes)
 {
     int a = 0;
     for (int i = 0; i < notes.Length; i++)

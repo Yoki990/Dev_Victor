@@ -188,6 +188,7 @@ using (AppDbContext db = new AppDbContext())
 
     void MenuRecettes()
     {
+        Console.Clear();
         Titre();
         string menuRecettes = """
 
@@ -226,7 +227,6 @@ using (AppDbContext db = new AppDbContext())
                     switch (choixRecettes)
                     {
                         case "0":
-                            Environment.Exit(0);
                             break;
                         case "1":
                             AfficherRecettes(db);
@@ -259,7 +259,6 @@ using (AppDbContext db = new AppDbContext())
                     switch (choixIngredients)
                     {
                         case "0":
-                            Environment.Exit(0);
                             break;
                         case "1":
                             AfficherIngredients(db);

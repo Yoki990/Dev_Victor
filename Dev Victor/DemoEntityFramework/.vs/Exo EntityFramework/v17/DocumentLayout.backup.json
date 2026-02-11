@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|solutionrelative:demoentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\demoentityframework\\demoentityframework\\class\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|solutionrelative:demoentityframework\\class\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\demoentityframework\\demoentityframework\\class\\model\\recetteingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|solutionrelative:demoentityframework\\class\\model\\recetteingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\demoentityframework\\demoentityframework\\class\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|solutionrelative:demoentityframework\\class\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBAFDDBF-F782-4DA0-9F9E-600278417655}|DemoEntityFramework\\Ex03.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\demoentityframework\\demoentityframework\\class\\model\\recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,16 +34,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RecetteIngredient.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\DemoEntityFramework\\DemoEntityFramework\\Class\\Model\\RecetteIngredient.cs",
               "RelativeDocumentMoniker": "DemoEntityFramework\\Class\\Model\\RecetteIngredient.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\DemoEntityFramework\\DemoEntityFramework\\Class\\Model\\RecetteIngredient.cs",
               "RelativeToolTip": "DemoEntityFramework\\Class\\Model\\RecetteIngredient.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T15:07:43.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T15:07:43.784Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "DemoEntityFramework\\Class\\Model\\Recette.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:58:39.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T12:58:39.797Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "DemoEntityFramework\\Class\\Model\\Ingredient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T15:06:41.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T15:06:41.871Z"
             },
             {
               "$type": "Document",
@@ -79,14 +76,14 @@
               "RelativeDocumentMoniker": "DemoEntityFramework\\Program.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\DemoEntityFramework\\DemoEntityFramework\\Program.cs",
               "RelativeToolTip": "DemoEntityFramework\\Program.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAACkBAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAawNAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T12:42:39.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\DemoEntityFramework\\DemoEntityFramework\\Class\\DbManager\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DemoEntityFramework\\Class\\DbManager\\AppDbContext.cs",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "DemoEntityFramework\\Class\\DbManager\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T08:52:17.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T08:52:17.809Z"
             }
           ]
         }

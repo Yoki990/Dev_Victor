@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ADO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex ado\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex ado\\ex02\\classes\\repository\\clientcommandesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|solutionrelative:ex02\\classes\\repository\\clientcommandesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex ado\\ex02\\classes\\model\\commandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|solutionrelative:ex02\\classes\\model\\commandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex ado\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3435F0-F4FC-4E40-AC06-1838AFE50D55}|Ex02\\Ex02.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex ado\\ex02\\classes\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Commandes.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ADO\\Ex02\\Classes\\Model\\Commandes.cs",
               "RelativeDocumentMoniker": "Ex02\\Classes\\Model\\Commandes.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Ex02\\Classes\\Model\\Commandes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T09:58:02.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T09:58:02.881Z"
             },
             {
               "$type": "Document",
@@ -51,31 +50,30 @@
               "RelativeToolTip": "Ex02\\Classes\\Model\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T08:37:42.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T08:37:42.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientCommandesRepository.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ADO\\Ex02\\Classes\\Repository\\ClientCommandesRepository.cs",
               "RelativeDocumentMoniker": "Ex02\\Classes\\Repository\\ClientCommandesRepository.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ADO\\Ex02\\Classes\\Repository\\ClientCommandesRepository.cs",
               "RelativeToolTip": "Ex02\\Classes\\Repository\\ClientCommandesRepository.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAgwEEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwEEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T08:37:41.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ADO\\Ex02\\Program.cs",
               "RelativeDocumentMoniker": "Ex02\\Program.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ADO\\Ex02\\Program.cs",
               "RelativeToolTip": "Ex02\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAIwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwOEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T08:37:44.062Z",
               "EditorCaption": ""

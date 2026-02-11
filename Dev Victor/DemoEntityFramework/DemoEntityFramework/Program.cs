@@ -121,7 +121,7 @@ using (AppDbContext db = new AppDbContext())
 
         //get all ingredient
 
-        AfficherIngredients();
+        AfficherIngredients(db);
 
         //get ingredient by id
         Console.Write("Saisir l'ID de l'ingrédient à mettre avec la recette: ");

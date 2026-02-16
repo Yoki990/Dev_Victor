@@ -21,23 +21,47 @@ namespace Exercice2.Controllers
         }
 
         public IActionResult Display(int id)
-        {
-
-            Dog d = Chiens.Where(d => d.Id == id).Single();
-            ViewData["nom"] = d.Name;
-            ViewData["age"] = d.Age;
-            ViewData["breed"] = d.Breed;
-            if (id <= 1 && id >= 3)
+        {           
+            if (id < 1 || id > 3)
             {
-                return View();
+                return RedirectToAction("DisplayAll");
             }
             else
             {
+                Dog d = Chiens.Where(d => d.Id == id).Single();
+                ViewData["nom"] = d.Name;
+                ViewData["age"] = d.Age;
+                ViewData["breed"] = d.Breed;
+
                 return View();
             }
+            
+        }
 
-                
-           
+        public IActionResult DisplayAll()
+        {
+            foreach (var d in Chiens)
+            {
+                ViewData["nom"] = d.Name;
+                ViewData["age"] = d.Age;
+                ViewData["breed"] = d.Breed;
+            }
+            return View();
+
+        }
+
+        public IActionResult Greeting(string name)
+        {
+            if (name == null)
+            {
+                return Content("Bienvenue sur la page");
+            }
+            else
+            {
+                ViewData["prénom"] = name;
+                return View();
+            }
+            
             
         }
     }

@@ -1,0 +1,57 @@
+﻿@{
+	ViewData["Title"] = "Vue";
+}
+
+<p> Prénom: @ViewData["string"]</p>
+<p> Âge: @ViewData["int"]</p>
+
+
+@{
+	bool estMajeur = ViewBag.estMajeur;
+	int age = ViewBag.age;
+
+}
+@if (estMajeur)
+{
+	<p> Statut : Majeur </p>
+}
+else
+{
+	<p> Statut : Mineur </p>
+}
+
+<p> Hobbies: </p>
+<ul>
+@if (((List<string>)ViewData["hobbies"]).Count == null || ((List<string>)ViewData["hobbies"]).Count == 0)
+{
+	<li>Aucun hobby renseigné</li>
+
+}
+else
+{
+
+@foreach (string nom in (List<string>)ViewData["hobbies"])
+{
+	<li>@nom</li>
+}
+}
+</ul>
+
+<p> Boucle for: </p>
+
+<ul>
+@for (int i=1; i<=10; i++)
+{
+	@if (i%2 == 0)
+	
+	{
+		<li> <strong>@i</strong></li>
+	}
+	else
+	
+	{
+		<li>@i</li>
+	}
+	
+}
+</ul>

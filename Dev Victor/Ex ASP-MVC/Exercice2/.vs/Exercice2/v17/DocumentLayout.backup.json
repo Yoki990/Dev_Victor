@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice2\\exercice2\\views\\dog\\greeting.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\dog\\greeting.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice2\\exercice2\\views\\dog\\display.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\dog\\display.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice2\\exercice2\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice2\\exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice2\\exercice2\\views\\dog\\displayall.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\dog\\displayall.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +39,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Greeting.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Views\\Dog\\Greeting.cshtml",
+              "RelativeDocumentMoniker": "Exercice2\\Views\\Dog\\Greeting.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Views\\Dog\\Greeting.cshtml",
+              "RelativeToolTip": "Exercice2\\Views\\Dog\\Greeting.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-16T12:30:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Views\\Dog\\DisplayAll.cshtml",
+              "RelativeDocumentMoniker": "Exercice2\\Views\\Dog\\DisplayAll.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Views\\Dog\\DisplayAll.cshtml",
+              "RelativeToolTip": "Exercice2\\Views\\Dog\\DisplayAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-16T12:29:58.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Views\\Dog\\Display.cshtml",
+              "RelativeDocumentMoniker": "Exercice2\\Views\\Dog\\Display.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Views\\Dog\\Display.cshtml",
+              "RelativeToolTip": "Exercice2\\Views\\Dog\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-16T11:37:04.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DogController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Controllers\\DogController.cs",
               "RelativeDocumentMoniker": "Exercice2\\Controllers\\DogController.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Controllers\\DogController.cs",
               "RelativeToolTip": "Exercice2\\Controllers\\DogController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T11:04:09.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T11:04:09.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Models\\Dog.cs",
               "RelativeDocumentMoniker": "Exercice2\\Models\\Dog.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Models\\Dog.cs",
               "RelativeToolTip": "Exercice2\\Models\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T11:02:53.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T11:02:53.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice2\\Exercice2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Exercice2\\Controllers\\HomeController.cs",
@@ -60,8 +107,7 @@
               "RelativeToolTip": "Exercice2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:37:11.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T10:37:11.619Z"
             }
           ]
         }

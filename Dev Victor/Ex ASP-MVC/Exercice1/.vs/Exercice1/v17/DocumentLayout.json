@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice1\\exercice1\\views\\random\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\views\\random\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice1\\exercice1\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice1\\exercice1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice1\\exercice1\\views\\random\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|solutionrelative:exercice1\\views\\random\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A095CDC3-9759-4A96-ABA3-7709845031B6}|Exercice1\\Exercice1.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice1\\exercice1\\views\\_viewimports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice1\\Exercice1\\Views\\Random\\Index.cshtml",
               "RelativeDocumentMoniker": "Exercice1\\Views\\Random\\Index.cshtml",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice1\\Exercice1\\Views\\Random\\Index.cshtml",
               "RelativeToolTip": "Exercice1\\Views\\Random\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-16T10:45:50.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RandomController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice1\\Exercice1\\Controllers\\RandomController.cs",
               "RelativeDocumentMoniker": "Exercice1\\Controllers\\RandomController.cs",
@@ -67,11 +67,12 @@
               "RelativeToolTip": "Exercice1\\Controllers\\RandomController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:42:38.824Z"
+              "WhenOpened": "2026-02-16T10:42:38.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice1\\Exercice1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Exercice1\\Controllers\\HomeController.cs",
@@ -79,11 +80,12 @@
               "RelativeToolTip": "Exercice1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:34:17.168Z"
+              "WhenOpened": "2026-02-16T10:34:17.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice1\\Exercice1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Exercice1\\Views\\Home\\Index.cshtml",

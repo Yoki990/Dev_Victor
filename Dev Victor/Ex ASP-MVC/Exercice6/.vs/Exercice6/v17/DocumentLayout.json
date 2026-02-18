@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\views\\student\\getallstudent.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\views\\student\\getallstudent.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\views\\student\\getallstudent.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\views\\student\\getallstudent.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\views\\student\\displayform.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\views\\student\\displayform.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\dbmanager\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +23,28 @@
       "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|solutionrelative:exercice6\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0D8C7D-44B6-4238-8B56-8ECDDF665C85}|Exercice6\\Exercice6.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice6\\exercice6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -75,12 +71,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Exercice6\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:32:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\DbManager\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Exercice6\\DbManager\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\DbManager\\StudentDbContext.cs",
+              "RelativeToolTip": "Exercice6\\DbManager\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:12:10.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Exercice6\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:17:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Exercice6\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:23:21.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GetAllStudent.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Views\\Student\\GetAllStudent.cshtml",
               "RelativeDocumentMoniker": "Exercice6\\Views\\Student\\GetAllStudent.cshtml",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Views\\Student\\GetAllStudent.cshtml",
               "RelativeToolTip": "Exercice6\\Views\\Student\\GetAllStudent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-18T14:57:13.945Z",
               "EditorCaption": ""
@@ -88,68 +136,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Services\\StudentService.cs",
-              "RelativeToolTip": "Exercice6\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:22:33.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Models\\Student.cs",
-              "RelativeToolTip": "Exercice6\\Models\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T12:57:40.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Program.cs",
-              "RelativeToolTip": "Exercice6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T12:51:29.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Exercice6\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T12:51:03.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\appsettings.json",
-              "RelativeDocumentMoniker": "Exercice6\\appsettings.json",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\appsettings.json",
-              "RelativeToolTip": "Exercice6\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-18T13:10:27.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DisplayForm.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Views\\Student\\DisplayForm.cshtml",
               "RelativeDocumentMoniker": "Exercice6\\Views\\Student\\DisplayForm.cshtml",
@@ -162,68 +148,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Exercice6\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wB4AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Models\\Student.cs",
+              "RelativeToolTip": "Exercice6\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:32:23.677Z",
+              "WhenOpened": "2026-02-18T12:57:40.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "StudentDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\DbManager\\StudentDbContext.cs",
-              "RelativeDocumentMoniker": "Exercice6\\DbManager\\StudentDbContext.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\DbManager\\StudentDbContext.cs",
-              "RelativeToolTip": "Exercice6\\DbManager\\StudentDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:12:10.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentService.cs",
-              "RelativeToolTip": "Exercice6\\Interfaces\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:23:21.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Exercice6\\Interfaces\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Interfaces\\IStudentRepository.cs",
-              "RelativeToolTip": "Exercice6\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:17:08.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Exercice6\\Repository\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Repository\\StudentRepository.cs",
               "RelativeToolTip": "Exercice6\\Repository\\StudentRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:15:27.296Z"
+              "WhenOpened": "2026-02-18T13:15:27.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exercice6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:51:03.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Program.cs",
+              "RelativeToolTip": "Exercice6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T12:51:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Exercice6\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Services\\StudentService.cs",
+              "RelativeToolTip": "Exercice6\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:22:33.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\appsettings.json",
               "RelativeDocumentMoniker": "Exercice6\\appsettings.json",
@@ -234,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Exercice6\\Views\\_ViewImports.cshtml",
@@ -245,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice6\\Exercice6\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Exercice6\\Views\\_ViewStart.cshtml",

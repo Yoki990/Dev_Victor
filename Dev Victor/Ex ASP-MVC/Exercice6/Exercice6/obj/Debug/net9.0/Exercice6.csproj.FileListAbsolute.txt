@@ -185,10 +185,10 @@ C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\ob
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\Exercice6.csproj.Up2Date
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\Exercice6.dll
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\refint\Exercice6.dll
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\Exercice6.pdb
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\Exercice6.genruntimeconfig.cache
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\ref\Exercice6.dll
+C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

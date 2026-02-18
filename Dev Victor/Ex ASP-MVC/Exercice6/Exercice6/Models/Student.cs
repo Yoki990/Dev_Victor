@@ -12,11 +12,11 @@ namespace Exercice6.Models
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Prénom requis")]
-        [Range(0, 120, ErrorMessage = "Saisie incorrecte")]
+        [StringLength(255, ErrorMessage = "Saisie incorrecte")]
         public string FirstName {  get; set; }
 
         [Required(ErrorMessage = "Nom requis")]
-        [Range(0, 120, ErrorMessage = "Saisie incorrecte")]
+        [StringLength(255, ErrorMessage = "Saisie incorrecte")]
         public string LastName { get; set; }
 
         [Required(ErrorMessage = "Âge requis")]

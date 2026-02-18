@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 
 namespace Exercice6.Controllers
 {
-    [Route("Accueil")]
     public class StudentController : Controller
     {
         private List<Student> students { get; set;} = new List<Student>();
@@ -28,8 +27,7 @@ namespace Exercice6.Controllers
             {
                 allStudents += student + " , ";
             }
-            
-            
+                        
             return View( allStudents);
         }
 

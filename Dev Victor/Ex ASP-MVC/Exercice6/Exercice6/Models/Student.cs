@@ -30,9 +30,8 @@ namespace Exercice6.Models
 
         public Student() { }
 
-        public Student(int id, string firstName, string lastName, int age, string email)
+        public Student(string firstName, string lastName, int age, string email)
         {
-            Id = id;
             FirstName = firstName;
             LastName = lastName;
             Age = age;

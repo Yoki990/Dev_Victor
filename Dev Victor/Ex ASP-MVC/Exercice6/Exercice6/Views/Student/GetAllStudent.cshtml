@@ -1,17 +1,15 @@
-@model List<Student>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Display Form</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Display Form</title>
 </head>
 <body>
-<div>
-    <p>Les students sont : </p>
-    <p>@Model</p>
-</div>
+	<div>
+		<p>Les students sont : </p>
+		<p>@ViewData["allStudents"]</p>
+	</div>
 
 </body>
 </html>

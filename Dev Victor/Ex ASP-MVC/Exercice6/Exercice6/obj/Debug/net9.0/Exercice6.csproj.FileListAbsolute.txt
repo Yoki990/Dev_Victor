@@ -191,4 +191,3 @@ C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\ob
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\Exercice6.pdb
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\Exercice6.genruntimeconfig.cache
 C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\ref\Exercice6.dll
-C:\Users\userprf\Desktop\Dev_Victor\Dev Victor\Ex ASP-MVC\Exercice6\Exercice6\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

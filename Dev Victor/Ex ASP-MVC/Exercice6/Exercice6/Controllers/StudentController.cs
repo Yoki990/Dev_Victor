@@ -19,6 +19,7 @@ namespace Exercice6.Controllers
         {
             _studentService = studentService;
         }
+        
         public IActionResult GetAllStudent()
         {
             string allStudents = "";
@@ -27,8 +28,8 @@ namespace Exercice6.Controllers
             {
                 allStudents += student + " , ";
             }
-                        
-            return View( allStudents);
+            ViewData["allStudents"] = allStudents;            
+            return View();
         }
 
         [HttpPost]

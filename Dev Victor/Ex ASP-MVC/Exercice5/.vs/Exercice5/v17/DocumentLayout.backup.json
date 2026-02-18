@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\views\\product\\details.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\product\\details.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\views\\product\\form.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\product\\form.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\views\\product\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\views\\product\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|c:\\users\\userprf\\desktop\\dev_victor\\dev victor\\ex asp-mvc\\exercice5\\exercice5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FBD8E-2384-4EE1-84A3-847526606953}|Exercice5\\Exercice5.csproj|solutionrelative:exercice5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Exercice5\\Views\\Product\\Details.cshtml",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "Exercice5\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-18T09:09:31.275Z",
+              "WhenOpened": "2026-02-18T10:16:01.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Exercice5\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Exercice5\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-18T10:15:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Views\\Product\\Form.cshtml",
               "RelativeDocumentMoniker": "Exercice5\\Views\\Product\\Form.cshtml",
@@ -56,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Exercice5\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Exercice5\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwCQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T08:54:31.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_Victor\\Dev Victor\\Ex ASP-MVC\\Exercice5\\Exercice5\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Exercice5\\Models\\Product.cs",
@@ -77,8 +94,7 @@
               "RelativeToolTip": "Exercice5\\Models\\Product.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:42:56.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:42:56.202Z"
             }
           ]
         }
